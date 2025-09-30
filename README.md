@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @risotto-co
 - 👀 I’m interested in coding and Minecraft servers
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently learning Computer Science & Mathematics
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am currently a freshman at the University of Kentucky
+- ⚡ Fun fact: I am currently a sophmore at the University of Kentucky
 
 <!---
 risotto-co/risotto-co is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
